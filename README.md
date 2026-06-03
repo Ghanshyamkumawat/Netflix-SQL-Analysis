@@ -12,7 +12,6 @@ This project analyzes Netflix movies and TV shows using SQL.
 - create_table.sql
 - analysis_queries.sql
 - netflix_titles.csv
-
 ## Key Analysis
 - Total Netflix records
 - Movies vs TV Shows
